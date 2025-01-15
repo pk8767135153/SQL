@@ -1,8 +1,8 @@
 # SQL
 
-### DDL , DML, DQL,
+### DDL , DML, DQL, <br><br>
 <hr>
-  - Limit and Order by
-  - Relation Operator : [ <> not equal to] 
-  - Logical Operator : AND,OR
-  - IN and BETWEEN Operator
+  - Limit and Order by <br>
+  - Relation Operator : [ <> not equal to] <br>
+  - Logical Operator : AND,OR    <br>
+  - IN and BETWEEN Operator     <br>
