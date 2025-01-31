@@ -1,0 +1,201 @@
+student_id,student_name,student_city,student_state,student_age,course_code
+1,David Lewis,Vadodara,Gujarat,22,1015
+2,Bob Garcia,Lucknow,Uttar Pradesh,19,1015
+3,James Scott,Faridabad,Haryana,20,1016
+4,Aiden Wilson,Vadodara,Gujarat,21,1011
+5,Laura Scott,Delhi,Delhi,24,1011
+6,Sarah Hall,Hyderabad,Telangana,22,1011
+7,Sophia Johnson,Delhi,Delhi,21,1011
+8,Sarah Rodriguez,Vadodara,Gujarat,18,1012
+9,Jane Martinez,Indore,Madhya Pradesh,22,1016
+10,Benjamin Allen,Nagpur,Maharashtra,19,1011
+11,Jane Lee,Ludhiana,Punjab,24,1012
+12,Mia Clark,Thane,Maharashtra,22,1016
+13,Jane Garcia,Bhopal,Madhya Pradesh,24,1011
+14,Michael Johnson,Lucknow,Uttar Pradesh,18,1016
+15,Daniel Clark,Hyderabad,Telangana,20,1015
+16,Kevin Allen,Nagpur,Maharashtra,25,1015
+17,Olivia Smith,Indore,Madhya Pradesh,18,1012
+18,Jane Johnson,Nagpur,Maharashtra,22,1015
+19,David Allen,Vadodara,Gujarat,18,1015
+20,Alice Garcia,Nashik,Maharashtra,25,1013
+21,Olivia Johnson,Lucknow,Uttar Pradesh,25,1013
+22,Mia Martinez,Chennai,Tamil Nadu,20,1014
+23,James Young,Jaipur,Rajasthan,20,1011
+24,Emily Young,Vadodara,Gujarat,21,1014
+25,Mia King,Hyderabad,Telangana,18,1014
+26,Mia Walker,Chennai,Tamil Nadu,24,1014
+27,Laura Johnson,Jaipur,Rajasthan,24,1011
+28,Bob Doe,Chennai,Tamil Nadu,23,1012
+29,John King,Pune,Maharashtra,25,1013
+30,Olivia Green,Vadodara,Gujarat,19,1016
+31,Laura Wilson,Nashik,Maharashtra,20,1011
+32,David Scott,Hyderabad,Telangana,22,1011
+33,Alice Young,Lucknow,Uttar Pradesh,20,1016
+34,Emily Doe,Kolkata,West Bengal,18,1015
+35,Emily Wright,Vadodara,Gujarat,23,1011
+36,Emily Lewis,Bengaluru,Karnataka,18,1013
+37,Aiden Martinez,Delhi,Delhi,21,1011
+38,Emily Garcia,Hyderabad,Telangana,20,1011
+39,Sophia Smith,Agra,Uttar Pradesh,20,1012
+40,James Lee,Thane,Maharashtra,25,1014
+41,Ethan Lewis,Chennai,Tamil Nadu,24,1014
+42,Olivia Davis,Nashik,Maharashtra,18,1013
+43,Sophia Lewis,Pune,Maharashtra,18,1011
+44,John Brown,Lucknow,Uttar Pradesh,19,1011
+45,Bob Martinez,Nagpur,Maharashtra,19,1011
+46,Sophia Wright,Ahmedabad,Gujarat,23,1015
+47,Daniel Hall,Nagpur,Maharashtra,23,1013
+48,Ethan Walker,Hyderabad,Telangana,24,1013
+49,Kevin Scott,Kolkata,West Bengal,24,1014
+50,James Lewis,Delhi,Delhi,22,1016
+51,Aiden Scott,Bhopal,Madhya Pradesh,24,1015
+52,John Wright,Agra,Uttar Pradesh,20,1013
+53,Aiden Wright,Delhi,Delhi,18,1014
+54,Jane Doe,Chennai,Tamil Nadu,23,1013
+55,Isabella Clark,Nashik,Maharashtra,22,1012
+56,Kevin Davis,Thane,Maharashtra,25,1012
+57,Alice Lewis,Nashik,Maharashtra,22,1014
+58,Mia Rodriguez,Mumbai,Maharashtra,23,1013
+59,James Rodriguez,Delhi,Delhi,18,1014
+60,Olivia Walker,Pune,Maharashtra,20,1016
+61,Emily Rodriguez,Indore,Madhya Pradesh,22,1011
+62,Sophia Doe,Mumbai,Maharashtra,24,1016
+63,Isabella Lee,Lucknow,Uttar Pradesh,21,1015
+64,Kevin Young,Vadodara,Gujarat,25,1015
+65,Sophia Green,Faridabad,Haryana,18,1011
+66,Michael Allen,Pune,Maharashtra,21,1015
+67,Bob Brown,Bhopal,Madhya Pradesh,22,1013
+68,Daniel Green,Mumbai,Maharashtra,25,1014
+69,Isabella Young,Agra,Uttar Pradesh,20,1012
+70,Alice Smith,Indore,Madhya Pradesh,24,1012
+71,Olivia Clark,Bhopal,Madhya Pradesh,25,1016
+72,Sarah Davis,Hyderabad,Telangana,20,1016
+73,James Allen,Lucknow,Uttar Pradesh,21,1016
+74,Mia Lee,Vadodara,Gujarat,25,1015
+75,Bob Hall,Kolkata,West Bengal,20,1013
+76,Benjamin Rodriguez,Ludhiana,Punjab,22,1012
+77,Emily Green,Bengaluru,Karnataka,23,1013
+78,Daniel Scott,Indore,Madhya Pradesh,21,1012
+79,Jane Davis,Kolkata,West Bengal,22,1011
+80,Mia Young,Faridabad,Haryana,19,1015
+81,Isabella Scott,Bengaluru,Karnataka,20,1014
+82,Olivia Rodriguez,Bengaluru,Karnataka,23,1011
+83,Ethan Clark,Agra,Uttar Pradesh,20,1016
+84,Michael Lewis,Indore,Madhya Pradesh,25,1011
+85,Aiden Rodriguez,Delhi,Delhi,20,1015
+86,Michael Lee,Kolkata,West Bengal,20,1014
+87,David Green,Chennai,Tamil Nadu,21,1016
+88,Michael Scott,Indore,Madhya Pradesh,21,1013
+89,Sarah Garcia,Indore,Madhya Pradesh,25,1015
+90,Laura Brown,Kolkata,West Bengal,18,1012
+91,Isabella Hall,Faridabad,Haryana,19,1012
+92,Aiden Smith,Mumbai,Maharashtra,20,1014
+93,Michael Martinez,Nagpur,Maharashtra,19,1011
+94,Laura Lee,Thane,Maharashtra,22,1015
+95,Ethan Martinez,Kolkata,West Bengal,20,1015
+96,Daniel Allen,Bengaluru,Karnataka,22,1016
+97,Emma Green,Faridabad,Haryana,21,1016
+98,James Brown,Kolkata,West Bengal,21,1012
+99,Aiden Hall,Nagpur,Maharashtra,22,1015
+100,James Martinez,Indore,Madhya Pradesh,23,1011
+101,Sarah King,Faridabad,Haryana,25,1015
+102,Sarah Johnson,Pune,Maharashtra,20,1014
+103,Mia Green,Ludhiana,Punjab,18,1014
+104,David Garcia,Bhopal,Madhya Pradesh,20,1016
+105,Aiden King,Thane,Maharashtra,19,1012
+106,Laura Garcia,Bengaluru,Karnataka,19,1012
+107,Alice Scott,Vadodara,Gujarat,23,1014
+108,Mia Smith,Jaipur,Rajasthan,20,1012
+109,Emma Walker,Hyderabad,Telangana,20,1011
+110,Olivia Doe,Delhi,Delhi,24,1015
+111,Emily Clark,Vadodara,Gujarat,18,1013
+112,Ethan Young,Chennai,Tamil Nadu,22,1014
+113,Bob King,Nagpur,Maharashtra,25,1015
+114,Sophia Young,Vadodara,Gujarat,25,1016
+115,Kevin Wright,Agra,Uttar Pradesh,22,1012
+116,Jane Wright,Jaipur,Rajasthan,23,1015
+117,Benjamin Smith,Lucknow,Uttar Pradesh,24,1011
+118,James Garcia,Pune,Maharashtra,25,1013
+119,Ethan Davis,Faridabad,Haryana,21,1015
+120,Michael Wilson,Thane,Maharashtra,19,1015
+121,John Johnson,Indore,Madhya Pradesh,21,1014
+122,Emma Doe,Kolkata,West Bengal,19,1014
+123,Olivia Allen,Patna,Bihar,23,1012
+124,Kevin Brown,Ludhiana,Punjab,23,1016
+125,Olivia Brown,Mumbai,Maharashtra,20,1013
+126,Laura Hall,Lucknow,Uttar Pradesh,19,1015
+127,Sophia Lee,Hyderabad,Telangana,21,1014
+128,Alice Johnson,Bengaluru,Karnataka,20,1014
+129,Laura Rodriguez,Nashik,Maharashtra,22,1013
+130,Laura Allen,Nagpur,Maharashtra,20,1014
+131,Ethan Garcia,Patna,Bihar,23,1016
+132,Isabella King,Agra,Uttar Pradesh,21,1016
+133,Isabella Doe,Chennai,Tamil Nadu,25,1012
+134,Emma Martinez,Kolkata,West Bengal,22,1012
+135,Daniel Wilson,Indore,Madhya Pradesh,23,1011
+136,Laura Clark,Patna,Bihar,18,1011
+137,John Young,Lucknow,Uttar Pradesh,22,1014
+138,Aiden Walker,Nagpur,Maharashtra,22,1013
+139,Michael Smith,Ludhiana,Punjab,24,1013
+140,Laura Doe,Hyderabad,Telangana,21,1015
+141,James Johnson,Kolkata,West Bengal,19,1015
+142,James Wilson,Bengaluru,Karnataka,20,1014
+143,Sarah Green,Ahmedabad,Gujarat,21,1013
+144,Jane Allen,Jaipur,Rajasthan,20,1014
+145,Mia Wright,Faridabad,Haryana,18,1013
+146,Emily Martinez,Thane,Maharashtra,22,1016
+147,Aiden Clark,Lucknow,Uttar Pradesh,19,1016
+148,Aiden Garcia,Faridabad,Haryana,19,1013
+149,Olivia Scott,Nagpur,Maharashtra,22,1015
+150,Daniel Martinez,Pune,Maharashtra,19,1014
+151,Daniel Davis,Mumbai,Maharashtra,24,1015
+152,Emily Walker,Nashik,Maharashtra,22,1011
+153,Kevin Martinez,Hyderabad,Telangana,23,1013
+154,Jane Young,Bengaluru,Karnataka,25,1015
+155,Emma Scott,Faridabad,Haryana,22,1015
+156,Michael Garcia,Kolkata,West Bengal,23,1013
+157,Kevin Clark,Delhi,Delhi,19,1011
+158,Kevin Rodriguez,Lucknow,Uttar Pradesh,23,1011
+159,Laura King,Bengaluru,Karnataka,19,1013
+160,James Smith,Mumbai,Maharashtra,21,1014
+161,Sophia Hall,Jaipur,Rajasthan,25,1013
+162,James Clark,Lucknow,Uttar Pradesh,22,1016
+163,Benjamin Lewis,Patna,Bihar,20,1015
+164,John Doe,Vadodara,Gujarat,22,1016
+165,Mia Davis,Chennai,Tamil Nadu,24,1012
+166,Alice Davis,Agra,Uttar Pradesh,25,1014
+167,Emily Smith,Lucknow,Uttar Pradesh,22,1016
+168,Ethan Doe,Ahmedabad,Gujarat,19,1015
+169,Daniel Wright,Kolkata,West Bengal,21,1014
+170,Isabella Wilson,Faridabad,Haryana,20,1012
+171,Sarah Wilson,Agra,Uttar Pradesh,21,1015
+172,Michael Clark,Bengaluru,Karnataka,18,1011
+173,Emily Johnson,Jaipur,Rajasthan,22,1012
+174,Isabella Wright,Ludhiana,Punjab,23,1014
+175,John Wilson,Chennai,Tamil Nadu,22,1016
+176,Isabella Davis,Indore,Madhya Pradesh,25,1014
+177,Sarah Lee,Delhi,Delhi,21,1011
+178,Ethan Wilson,Lucknow,Uttar Pradesh,20,1014
+179,Bob Allen,Indore,Madhya Pradesh,19,1012
+180,Sarah Smith,Mumbai,Maharashtra,23,1015
+181,Olivia Wright,Bhopal,Madhya Pradesh,25,1014
+182,Kevin Lewis,Pune,Maharashtra,24,1014
+183,Isabella Allen,Patna,Bihar,24,1014
+184,Ethan Rodriguez,Pune,Maharashtra,23,1011
+185,Benjamin Scott,Vadodara,Gujarat,24,1015
+186,Benjamin Brown,Thane,Maharashtra,25,1015
+187,Laura Davis,Kolkata,West Bengal,18,1013
+188,Kevin Johnson,Ludhiana,Punjab,24,1016
+189,Emma Wilson,Thane,Maharashtra,18,1014
+190,Jane Lewis,Bhopal,Madhya Pradesh,25,1012
+191,Emily Lee,Bhopal,Madhya Pradesh,23,1011
+192,Michael Young,Indore,Madhya Pradesh,24,1013
+193,Bob Walker,Vadodara,Gujarat,22,1013
+194,Emma Lee,Hyderabad,Telangana,25,1011
+195,Emma Garcia,Hyderabad,Telangana,20,1012
+196,Emma Allen,Delhi,Delhi,24,1015
+197,Daniel Johnson,Indore,Madhya Pradesh,22,1013
+198,Emma Clark,Ludhiana,Punjab,25,1013
+199,Daniel Brown,Patna,Bihar,24,1011
+200,Mia Hall,Mumbai,Maharashtra,23,1015

@@ -1,0 +1,6 @@
+Department_Id,Department_name,Department_head,Department_Budget,Course_id
+20121,Computer Science,Dr. Alan Turing,"$500,000",1011
+20122,Database Department,Prof. Nikola Tesla,"$450,000",1015
+20123,Artificial Intelligence,Dr. James Watt,"$400,000",1014
+20124,Plan Computer Science Engineering,Prof. Gustave Eiffel,"$350,000",1013
+20335,Business Administration,Ms. Mary Parker Follett,"$300,000",1016
