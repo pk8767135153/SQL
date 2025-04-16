@@ -59,7 +59,7 @@ use pw_sql;
 
 create table school
 (
-	student_id int unique,
+    student_id int unique,
     student_name varchar(30) not null,
     school_name varchar(40) default("Maharashtra Vidyalaya Barshi"),
     student_marks int check(student_marks >=35),
