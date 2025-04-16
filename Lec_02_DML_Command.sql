@@ -5,6 +5,17 @@
 -- 8767135153
 
 
+-- Data Types in SQL :
+	-- int : 
+	-- varchar(size): A variable length String.
+	-- char(size) : a fixed - length string. if the data is smaller than the specified size, it's padded with spaces. 
+	-- text: allows storing long text data.
+	-- float/double : used for storing floating point numbers or decimals.
+	-- date : Represents a date in the formate YYYY-MM-DD
+	-- datetime : store bote date and time information (YYYY-MM-DD HH:MM:SS)
+	-- blob : Used to store binary data, such as images or files.
+	-- decimal(size, decimals) : fixed point numbers with a defined precision.
+
 
 use pw_sql;
 
